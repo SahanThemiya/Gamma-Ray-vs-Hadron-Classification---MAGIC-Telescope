@@ -1,0 +1,19 @@
+# Data
+magic04.data
+magic04.names
+
+# PyCharm
+.idea/
+
+# Generated plots
+plots/
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
